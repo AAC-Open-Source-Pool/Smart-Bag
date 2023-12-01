@@ -1,5 +1,5 @@
-<h1 align="centre">
-   <img src="https://i.imgur.com/g5XtlPT.jpg">
+<h1 align="center">
+   <img src="https://imgur.com/4FzdSTS.png">
 </h1>
 
 # Table of Contents
